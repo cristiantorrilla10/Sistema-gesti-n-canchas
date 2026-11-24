@@ -25,12 +25,22 @@ Estado
 
 Proyecto funcional en etapa de documentación y presentación
 
-##Capturas del sistema
+
+## Capturas del sistema
+
 ### Gestión de clientes
-![Formulario de clientes] (Captura de pantalla 2026-11-24 123134.png)
+
+![Formulario de clientes](Captura%20de%20pantalla%202026-11-24%20123134.png)
+
 ### Gestión de canchas
-![Formulario de canchas] (Captura de pantalla 2026-11-24 123149.png)
-### Gestión de alquiler
-![Formulario de alquiler] (Captura de pantalla 2026-11-24 123206.png)
-### Gestión de factura
-![Formulario de factura] (Captura de pantalla 2026-11-24 123227.png)
+
+![Formulario de canchas](Captura%20de%20pantalla%202026-11-24%20123149.png)
+
+### Gestión de alquileres
+
+![Formulario de alquiler](Captura%20de%20pantalla%202026-11-24%20123206.png)
+
+### Gestión de facturas
+
+![Formulario de facturas](Captura%20de%20pantalla%202026-11-24%20123227.png)
+
