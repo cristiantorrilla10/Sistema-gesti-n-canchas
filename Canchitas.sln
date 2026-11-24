@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.36617.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Canchitas", "Canchitas\Canchitas.vbproj", "{E869327E-7E22-4FF5-A8C6-8CF1E0855CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E869327E-7E22-4FF5-A8C6-8CF1E0855CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E869327E-7E22-4FF5-A8C6-8CF1E0855CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E869327E-7E22-4FF5-A8C6-8CF1E0855CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E869327E-7E22-4FF5-A8C6-8CF1E0855CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C0895F-47CD-4FF9-AC65-DA0115028BF2}
+	EndGlobalSection
+EndGlobal
